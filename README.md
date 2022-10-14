@@ -1176,5 +1176,5 @@ StringBuilder предпочтительнее использовать если
 	
 ### Что такое MVC, MVVM, WEB API?			
 				
-				
+https://techrocks.ru/2021/01/12/net-job-interview-questions/		
 				
